@@ -23,3 +23,4 @@ TLSRequired                on
 RequireValidShell          no
 </IfModule>' /etc/proftpd/tls.conf 
 sudo service proftpd restart
+ip a
