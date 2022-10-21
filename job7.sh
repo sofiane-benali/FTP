@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 apt-get install update
 apt-get install upgrade
 apt-get install sudo
